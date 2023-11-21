@@ -14,7 +14,7 @@
 - Hello my name is Ismail 👋
 - I'm a frontend developer 💻
 - Welcome to my world 🌍
-- Enjoy
+- Enjoy 
 
 📫 How to reach me: ismailkherkheulidze@gmail.com
 
