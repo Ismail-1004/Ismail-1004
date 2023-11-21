@@ -14,7 +14,7 @@
 - Hello my name is Ismail 👋
 - I'm a frontend developer 💻
 - Welcome to my world 🌍
-- Enjoy 
+- Enjoy <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
 
 📫 How to reach me: ismailkherkheulidze@gmail.com
 
