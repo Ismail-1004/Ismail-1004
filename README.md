@@ -11,6 +11,11 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white)
 
+- Hello my name is Ismail 👋
+- I'm a frontend developer 💻
+- Welcome to my world 🌍
+- Enjoy
+
 📫 How to reach me: ismailkherkheulidze@gmail.com
 
 <div>
